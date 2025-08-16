@@ -20,23 +20,7 @@ This project contains two **reusable and premium-quality UI components** built w
 
 ##  Project Structure
 
-frontend-assignment/
-├── src/
-│   ├── components/
-│   │   ├── InputField/
-│   │   │   ├── InputField.tsx
-│   │   │   └── InputField.stories.tsx
-│   │   ├── DataTable/
-│   │   │   ├── DataTable.tsx
-│   │   │   └── DataTable.stories.tsx
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── .storybook/
-│   └── preview.ts
-├── tailwind.config.js
-├── package.json
-└── README.md
+
 
 ---
 
