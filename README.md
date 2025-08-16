@@ -20,7 +20,7 @@ This project contains two **reusable and premium-quality UI components** built w
 
 ##  Project Structure
 
-
+![alt text](image.png)
 
 ---
 
